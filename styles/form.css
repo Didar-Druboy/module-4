@@ -1,0 +1,10 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+fieldset{
+    margin-bottom: 10px;
+}
+#reset, #submit{
+    padding: 5px 20px;
+}
